@@ -1,9 +1,5 @@
 ## Hello World! Eu sou Gabriel Campos Monteiro!
-[ <div>
-  <a href="https://beacons.ai/gcamon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamMon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamMon&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>](url)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
